@@ -2,4 +2,4 @@
 
 ## Goblin
 
-[Goblin-Printed](/printed-images/goblin-pitch-printed.jpg)
+![Goblin-Printed](/printed-images/goblin-pitch-printed.jpg)
