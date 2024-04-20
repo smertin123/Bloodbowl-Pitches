@@ -2,7 +2,17 @@
 
 ## Goblin
 ### Standard
-![Goblin-Printed](/Goblin/printed-images/goblin-pitch-printed.jpg)
+![Goblin-Printed](/printed-images/goblin-pitch-printed.jpg)
+
+### Dugouts
+![Goblin-Dugouts](/printed-images/goblin-dugouts.jpg)
 
 ### 7s
-![Goblin-7s-Printed](/Goblin/printed-images/goblin-7s-printed.jpg)
+![Goblin-7s-Printed](/printed-images/goblin-7s-printed.jpg)
+
+## Vampire
+### Standard
+![Vampire-Printed](/printed-images/vampire-pitch.jpg)
+
+### Dugouts
+![Vampire-Dugouts](/printed-images/vampire-dugouts.jpg)
