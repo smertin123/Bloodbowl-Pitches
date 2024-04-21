@@ -23,3 +23,13 @@
 
 ### Dugouts
 ![Skaven-Dugouts](/printed-images/skaven-dugouts.jpg)
+
+## Shambling Undead
+### Standard
+![Shambling-Undead-Printed](/printed-images/shambling-undead-pitch.jpg)
+
+### Dugouts
+![Shambling-Undead-Dugouts](/printed-images/shambling-undead-dugouts.jpg)
+
+### 7s
+![Shambling-Undead-7s-Printed](/printed-images/shambling-undead-7s.jpg)
