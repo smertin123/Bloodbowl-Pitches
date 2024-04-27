@@ -33,3 +33,10 @@
 
 ### 7s
 ![Shambling-Undead-7s-Printed](/printed-images/shambling-undead-7s.jpg)
+
+## Chaos
+### Standard
+![Chaos-Printed](/printed-images/chaos-pitch.jpg)
+
+### Dugouts
+![Chaos-Dugouts](/printed-images/chaos-dugouts.jpg)
