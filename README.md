@@ -40,3 +40,10 @@
 
 ### Dugouts
 ![Chaos-Dugouts](/printed-images/chaos-dugouts.jpg)
+
+## Khorne
+### Standard
+![Khorne-Printed](/printed-images/khorne-pitch.jpg)
+
+### Dugouts
+![Khorne-Dugouts](/printed-images/khorne-dugouts.jpg)
