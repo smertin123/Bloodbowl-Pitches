@@ -47,3 +47,13 @@
 
 ### Dugouts
 ![Khorne-Dugouts](/printed-images/khorne-dugouts.jpg)
+
+## Swanny D
+### Standard
+![Swanny-D-Printed](/printed-images/swanny-d-pitch.jpg)
+
+### Dugouts
+![Swanny-D-Dugouts](/printed-images/swanny-d-dugouts.jpg)
+
+### 7s
+![Swanny-D-7s-Printed](/printed-images/swanny-d-7s.jpg)
