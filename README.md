@@ -1,5 +1,9 @@
 # Bloodbowl-Pitches
 
+All of these pitches are also available for VTT:
+
+https://bloodbowlepitch.com/
+
 ## Goblin
 ### Standard
 ![Goblin-Printed](/printed-images/goblin-pitch-printed.jpg)
